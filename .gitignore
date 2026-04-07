@@ -8,3 +8,6 @@ __history/
 *.local
 *.identcache
 *.tvsconfig
+__pycache__/
+*.pyc
+.vscode/
