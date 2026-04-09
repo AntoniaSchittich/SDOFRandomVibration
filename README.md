@@ -140,7 +140,7 @@ In Terminal:
 
 1. cd path/to/your/project
 
-2. bbokeh serve --show .
+2. bokeh serve --show .
 
 ---
 
