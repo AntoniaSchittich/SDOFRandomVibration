@@ -8,7 +8,7 @@ The application allows users to explore how different stochastic excitation mode
 
 
 
-Try this markdown:
+App UI:
 ![App Overview](AppOverview.png)
 
 
