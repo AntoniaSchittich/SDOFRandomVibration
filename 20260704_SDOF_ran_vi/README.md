@@ -7,6 +7,13 @@ This project is an interactive web application built with **Bokeh** to visualize
 The application allows users to explore how different stochastic excitation models influence the structural response in both the **time** and **frequency domain**, as well as related **probabilistic characteristics** such as failure likelihood.
 
 
+
+Try this markdown:
+
+![alt text](C:\Users\anton\Bachelorarbeit\SDOF_BokehApp\20260704_SDOF_ran_vi/img.png)
+
+
+
 ## Features
 
 ### System Modeling
@@ -125,19 +132,16 @@ Failure is evaluated using:
 
 ## How to Run
 
-1. Install dependencies (recommended via conda or venv)
+1. Open Anaconda Navigator
+2. Go to Environments
+3. Select your active environment (e.g. base)
+4. Click on the green arrow → Open Terminal
 
-2. Start the Bokeh server:
+In Terminal: 
 
-```
-bokeh serve --show .
-```
+1. cd path/to/your/project
 
-3. The app will open in your browser:
-
-```
-http://localhost:5006/
-```
+2. bbokeh serve --show .
 
 ---
 
